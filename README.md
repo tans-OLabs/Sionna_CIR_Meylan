@@ -1,5 +1,8 @@
-”Sionna_CIR_Meylan »##  
-
+Read me  
+##<ins>File name :</ins>  
+##” Sionna_CIR_Meylan “
+##<ins>Date:</ins>  
+*17/02/2026*  
 #**Analyse Réponse Impulsionnelle 3.7 GHz**#  
 
 ***Simulation d’un transmetteur OFDM 3.7 GHz depuis le bâtiment New Meylan Module C 3ème étage vers un récepteur niveau du sol au 22 chemin du Vieux Chêne.***  
