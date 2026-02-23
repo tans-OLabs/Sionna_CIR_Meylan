@@ -11,7 +11,7 @@ Scène Openstreetmap + blender (export xml  Mitsuba)
 scene = load_scene("test_scene/test_scene.xml")     # Batiment New Meylan et environs ~500m  
 #<ins>Matériau</ins>  
 Matériau ITU_glass (parois verticales et ITU_Concrete sol et toits  
-##<ins>Coordonnées transmetteur/récepteur</ins>  
+#<ins>Coordonnées transmetteur/récepteur</ins>  
 tx = Transmitter("tx", [-19,-29,10],[0.0, 0.0, 0.0]) # Coordonnées Meylan BatA   A3B38 Balcon  
 rx = Receiver("rx", [-30,-34,1.5],[0.0, 0.0, 0.0]) # Rue du Vieux Chêne local Vélo  
 Fréquence 3.7 GHz  
